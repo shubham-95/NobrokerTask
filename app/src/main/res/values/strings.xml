@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">NobrokerTask</string>
+    <string name="rs_symbol">\u20B9</string>
+    <string name="built_up">Built up Area</string>
+    <string name="title_activity_filter">FilterActivity</string>
+    <string name="twobhk">2 BHK</string>
+    <string name="threebhk">3 BHK</string>
+    <string name="fourbhk">4 BHK</string>
+    <string name="noofbedrooms">No Of Bedrooms</string>
+    <string name="property_type">Property Type</string>
+    <string name="apartment">Apartment</string>
+    <string name="independenthouse">Independent House/Villa</string>
+    <string name="builder">Independent Floor/Builder Floor</string>
+    <string name="furnished">Furnished</string>
+    <string name="semi">Semi</string>
+    <string name="full">Full</string>
+    <string name="none">None</string>
+    <string name="apply_filters">Apply Filters</string>
+    <string name="filters">Filter</string>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="title_textsize">14sp</dimen>
+    <dimen name="content_textsize">12sp</dimen>
+    <dimen name="title_linear_layout_padding_top">7dp</dimen>
+    <dimen name="title_linear_layout_padding_left">10dp</dimen>
+    <dimen name="listpage_linear_layout_padding">10dp</dimen>
+    <dimen name="line_seperator_width">1dp</dimen>
+    <dimen name="line_seperator_onefivewidth">1.5dp</dimen>
+    <dimen name="general_textsize_fourteen">14sp</dimen>
+    <dimen name="general_textsize_tweleve">12sp</dimen>
+    <dimen name="general_textsize_sixteen">16sp</dimen>
+    <dimen name="general_textsize_ten">10sp</dimen>
+    <dimen name="second_linear_layout_list_page_padding">10dp</dimen>
+    <dimen name="first_linear_layout_list_page_padding">20dp</dimen>
+    <dimen name="imageview_height">160dp</dimen>
+    <dimen name="rs_padding_left">5dp</dimen>
+    <dimen name="description_padding_bottm">5dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="filter_main_linear_PT">20dp</dimen>
+    <dimen name="filter_main_linear_PL">10dp</dimen>
+    <dimen name="filter_linear_layout_MT">5dp</dimen>
+    <dimen name="padding_inner_linear_layout">10dp</dimen>
+    <dimen name="margin_between_linear">7dp</dimen>
+    <dimen name="filter_second_linear_layout_MT">20dp</dimen>
+    <dimen name="filter_button_height">30dp</dimen>
+</resources>
